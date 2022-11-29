@@ -1,0 +1,45 @@
+.title {
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  font-weight: bold;
+}
+.description {
+  width: 500px;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  margin-left: 510px;
+}
+
+.title-s {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+  }
+  .description-s {
+    width: 500px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-left: 510px;
+  }
+  
+
+
+.button-learn {
+  border: 3px solid rgb(59, 58, 58);
+  cursor: pointer;
+  margin-left: 685px;
+  color: black;
+  font-weight: bold;
+  background-color: white;
+  width: 150px;
+  border-radius: 5px;
+  height: 50px;
+}
+
+.map {
+    margin-left: 370px;
+}
