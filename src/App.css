@@ -26,7 +26,7 @@ a {
 .button-text {
   font-weight: bold;
     font-size: 25px;
-    margin-left: 20px;
+    text-align: center;
 
 }
 .button-text-m {
@@ -34,13 +34,12 @@ a {
   height: 32px;
   font-weight: bold;
   font-size: 25px;
-  margin-left: 20px;
   text-decoration: underline;
 }
 .button-text-m:hover {
   font-weight: bold;
   font-size: 25px;
-  margin-left: 20px;
+ 
   text-decoration: underline;
   text-decoration-color: rgb(100, 100, 100);
 }
